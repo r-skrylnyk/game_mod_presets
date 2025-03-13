@@ -1,32 +1,32 @@
-Модифікації:
-Reshade: https://www.nexusmods.com/stalker2heartofchornobyl/mods/25
-Mutant Loot: https://www.nexusmods.com/stalker2heartofchornobyl/mods/389?tab=description
-Ultimate Stashes Upgrade. : https://www.nexusmods.com/stalker2heartofchornobyl/mods/832?tab=description
-#Maklane better gunfights: https://www.nexusmods.com/stalker2heartofchornobyl/mods/113?tab=description
-#Ledge Grabbing: https://www.nexusmods.com/stalker2heartofchornobyl/mods/204?tab=description
-Longer Days AND Longer Sprinting: https://www.nexusmods.com/stalker2heartofchornobyl/mods/1040?tab=files
-Monolith Weapon Camo Retexture: https://www.nexusmods.com/stalker2heartofchornobyl/mods/877?tab=description
-Large loot box: https://www.nexusmods.com/stalker2heartofchornobyl/mods/515?tab=description
-Reasonable Weapon Degradation: https://www.nexusmods.com/stalker2heartofchornobyl/mods/33?tab=description
-Optimization Essentials: https://www.nexusmods.com/stalker2heartofchornobyl/mods/60?tab=files&file_id=7276
-Portable radio: https://www.nexusmods.com/stalker2heartofchornobyl/mods/967
-Clear Sky HUD: https://www.nexusmods.com/stalker2heartofchornobyl/mods/866
-Modular Hard Mode: https://www.nexusmods.com/stalker2heartofchornobyl/mods/88?tab=posts
-Stimpak Sound Effect: https://www.nexusmods.com/stalker2heartofchornobyl/mods/799https://www.nexusmods.com/stalker2heartofchornobyl/mods/799
-Immersive Music Ambience: https://www.nexusmods.com/stalker2heartofchornobyl/mods/1248?tab=files
-More Ukrainian Music: https://www.nexusmods.com/stalker2heartofchornobyl/mods/537
-A-Life Uh.. Found A Way: https://www.nexusmods.com/stalker2heartofchornobyl/mods/1122
-Classic Crosshair: https://www.nexusmods.com/stalker2heartofchornobyl/mods/940?tab=description
-Abundant Ammo (35%): https://www.nexusmods.com/stalker2heartofchornobyl/mods/378?tab=description
-Rant - More Durable Armor - Loose File: https://www.nexusmods.com/stalker2heartofchornobyl/mods/530?tab=description
-Fast Travel with Anyone: https://www.nexusmods.com/stalker2heartofchornobyl/mods/642?tab=description
-AR416 Skins Pack - Real Markings and Recolors for Vanilla and Monolith Skins:
+# Модифікації:
+- Reshade: https://www.nexusmods.com/stalker2heartofchornobyl/mods/25
+- Mutant Loot: https://www.nexusmods.com/stalker2heartofchornobyl/mods/389?tab=description
+- Ultimate Stashes Upgrade. : https://www.nexusmods.com/stalker2heartofchornobyl/mods/832?tab=description
+- #Maklane better gunfights: https://www.nexusmods.com/stalker2heartofchornobyl/mods/113?tab=description
+- #Ledge Grabbing: https://www.nexusmods.com/stalker2heartofchornobyl/mods/204?tab=description
+- Longer Days AND Longer Sprinting: https://www.nexusmods.com/stalker2heartofchornobyl/mods/1040?tab=files
+- Monolith Weapon Camo Retexture: https://www.nexusmods.com/stalker2heartofchornobyl/mods/877?tab=description
+- Large loot box: https://www.nexusmods.com/stalker2heartofchornobyl/mods/515?tab=description
+- Reasonable Weapon Degradation: https://www.nexusmods.com/stalker2heartofchornobyl/mods/33?tab=description
+- Optimization Essentials: https://www.nexusmods.com/stalker2heartofchornobyl/mods/60?tab=files&file_id=7276
+- Portable radio: https://www.nexusmods.com/stalker2heartofchornobyl/mods/967
+- Clear Sky HUD: https://www.nexusmods.com/stalker2heartofchornobyl/mods/866
+- Modular Hard Mode: https://www.nexusmods.com/stalker2heartofchornobyl/mods/88?tab=posts
+- Stimpak Sound Effect: https://www.nexusmods.com/stalker2heartofchornobyl/mods/799https://www.nexusmods.com/stalker2heartofchornobyl/mods/799
+- Immersive Music Ambience: https://www.nexusmods.com/stalker2heartofchornobyl/mods/1248?tab=files
+- More Ukrainian Music: https://www.nexusmods.com/stalker2heartofchornobyl/mods/537
+- A-Life Uh.. Found A Way: https://www.nexusmods.com/stalker2heartofchornobyl/mods/1122
+- Classic Crosshair: https://www.nexusmods.com/stalker2heartofchornobyl/mods/940?tab=description
+- Abundant Ammo (35%): https://www.nexusmods.com/stalker2heartofchornobyl/mods/378?tab=description
+- Rant - More Durable Armor - Loose File: https://www.nexusmods.com/stalker2heartofchornobyl/mods/530?tab=description
+- Fast Travel with Anyone: https://www.nexusmods.com/stalker2heartofchornobyl/mods/642?tab=description
+- AR416 Skins Pack - Real Markings and Recolors for Vanilla and Monolith Skins:
 https://www.nexusmods.com/stalker2heartofchornobyl/mods/731?tab=description
-Medkits and Consumables Rebalance:
+- Medkits and Consumables Rebalance:
 https://www.nexusmods.com/stalker2heartofchornobyl/mods/49?tab=description
-UI Clock: https://www.nexusmods.com/stalker2heartofchornobyl/mods/550?tab=description
-E3 2021 Graphics Revamp (WIP): https://www.nexusmods.com/stalker2heartofchornobyl/mods/1108
-Reticles: https://www.nexusmods.com/stalker2heartofchornobyl/mods/1251
-Classic Weapon Set: https://www.nexusmods.com/stalker2heartofchornobyl/mods/895
-Weird Water no longer drunk Water: https://www.nexusmods.com/stalker2heartofchornobyl/mods/382
-Jake's Longer Days (Plus Quest Pay-Carry Weight-Stam):  https://www.nexusmods.com/stalker2heartofchornobyl/mods/44
+- UI Clock: https://www.nexusmods.com/stalker2heartofchornobyl/mods/550?tab=description
+- E3 2021 Graphics Revamp (WIP): https://www.nexusmods.com/stalker2heartofchornobyl/mods/1108
+- Reticles: https://www.nexusmods.com/stalker2heartofchornobyl/mods/1251
+- Classic Weapon Set: https://www.nexusmods.com/stalker2heartofchornobyl/mods/895
+- Weird Water no longer drunk Water: https://www.nexusmods.com/stalker2heartofchornobyl/mods/382
+- Jake's Longer Days (Plus Quest Pay-Carry Weight-Stam):  https://www.nexusmods.com/stalker2heartofchornobyl/mods/44
