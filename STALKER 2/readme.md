@@ -27,3 +27,6 @@ https://www.nexusmods.com/stalker2heartofchornobyl/mods/49?tab=description
 UI Clock: https://www.nexusmods.com/stalker2heartofchornobyl/mods/550?tab=description
 E3 2021 Graphics Revamp (WIP): https://www.nexusmods.com/stalker2heartofchornobyl/mods/1108
 Reticles: https://www.nexusmods.com/stalker2heartofchornobyl/mods/1251
+Classic Weapon Set: https://www.nexusmods.com/stalker2heartofchornobyl/mods/895
+Weird Water no longer drunk Water: https://www.nexusmods.com/stalker2heartofchornobyl/mods/382
+Jake's Longer Days (Plus Quest Pay-Carry Weight-Stam):  https://www.nexusmods.com/stalker2heartofchornobyl/mods/44
